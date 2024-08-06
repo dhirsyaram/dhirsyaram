@@ -4,15 +4,5 @@
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/dhirsyarp/)
 - 😄 Pronouns: He/Him
 
-<!---
-dhirsyaram/dhirsyaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-### My Github Statistic
-<a href="https://github.com/dhirsyaram/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dhirsyaram" />
-</a>
-<a href="https://github.com/dhirsyaram/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirsyaram&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhirsyaram&show_icons=true"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirsyaram&size_weight=0.5&count_weight=0.5)
